@@ -20,21 +20,21 @@ The project involves data preprocessing, feature selection, model training, eval
 **D. Tools and Libraries**  
 To execute this project efficiently, the following tools and libraries are utilized:
 
-**- Python**:
-- The primary programming language for this project due to its simplicity and extensive library support.
+- **Python**:  
+The primary programming language for this project due to its simplicity and extensive library support.
 
-**- Data Manipulation and Analysis**:
+- **Data Manipulation and Analysis**:
 
-**1. pandas**: For data manipulation and analysis.
-**2. numpy**: For numerical operations and array handling.
-**- Data Visualization**:
+1. **pandas**: For data manipulation and analysis.
+2. **numpy**: For numerical operations and array handling.
+- **Data Visualization**:
 
-**1. matplotlib**: For creating static, animated, and interactive visualizations.
-**2. seaborn**: For statistical data visualization.
-**- Machine Learning and Model Building**:
+1. **matplotlib**: For creating static, animated, and interactive visualizations.
+2. **seaborn**: For statistical data visualization.
+- **Machine Learning and Model Building**:
 
-**1. scikit-learn**: For implementing various machine learning algorithms and evaluation metrics.  
+1. **scikit-learn**: For implementing various machine learning algorithms and evaluation metrics.  
 
-**- Model Evaluation**:
+- **Model Evaluation**:
 
-**1. scikit-learn.metrics**: For performance metrics like MSE, RMSE, and R-squared.
+1. **scikit-learn.metrics**: For performance metrics like MSE, RMSE, and R-squared.
